@@ -80,7 +80,7 @@ Effectively handles mixed data types
 Helps identify key factors influencing income levels
 ▶️ How to Run
 Clone the repository:
-git clone 
+git clone https://github.com/johnlaraji1608-collab/incomeevaluation_randomforest_classification/blob/main/incomeevaluation_randomforest_classification.ipynb
 Navigate to the project:
 cd income-evaluation
 Install dependencies:
